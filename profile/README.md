@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../images/logo.png" width="320" alt="ИТД" />
+![логотипчик](https://github.com/itd-social/.github/blob/main/images/logo.png)
 
 # соцсеть и т.д.
 
