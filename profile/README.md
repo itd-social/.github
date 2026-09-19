@@ -15,4 +15,4 @@
 - лучшая соц сеть — [итд.com](https://xn--d1ah4a.com)
 - сообщить о баге — [BUG-REPORT](https://github.com/itd-social/BUG-REPORT)
 
-- автор большинства репозиториев - [@itdStatus](https://t.me/itdStatus)
+- автор большинства репозиториев — [@itdStatus](https://t.me/itdStatus)
